@@ -28,6 +28,7 @@ Todo o ETL, desde a extração até o seu armazenamento para a participação em
 
 É importante ressaltar que caso uma validação de dados chegue em um dado estranho (30 de fevereiro; pessoa com 200 anos; devedor com bens novos sem novos empréstimos no banco) cabe à instituição ou à empresa decidir se o dado deve ser deletado, alterado para a possibilidade mais próxima, extraído novamente, questionado em sua fonte, verificado como novo precedente, entre outras decisões.
 
+Importante ressaltar que o Pipeline em si começa com a junção do Data source com o Data Validation, no mínimo. C.c., é apenas obtenção de dados; tal qual, computar os dados para visualização não faz aprte necessariamente do pipeline, mas auxiliar no Data Loading e ai sim se aproveitar das ferramentas do BI results seria considerado parte do Data Flow.
 ### PIPELINE
 
 _Data Source_: diferentes fontes de dados, como OS (Operational System), ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), SQL (DB baseado em Structured Query Language), _flat files_ ou _spredsheets_, [...]
