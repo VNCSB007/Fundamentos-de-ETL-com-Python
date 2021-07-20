@@ -70,8 +70,8 @@ https://pandas.pydata.org/
 
 Referências:
 
-- A proposed model for data warehouse ETL processes. Journal of KIng Saud University - Computer and information Sciences, 2011
-- Why You Need ETL Testing and What You Need To Know (https://www.cigniti.com/blog/why-need-etl-testing-what-need-now/)
+- A proposed model for data warehouse ETL processes. Journal of King Saud University - Computer and information Sciences, 2011
+- Why You Need ETL Testing and What You Need To Know. Link: https://www.cigniti.com/blog/why-need-etl-testing-what-need-now/
 
 
 
